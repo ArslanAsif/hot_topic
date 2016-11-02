@@ -1,0 +1,3 @@
+[25-Oct-2016 12:35:04 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/mustaqee/public_html/hottopic/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 475
+[25-Oct-2016 12:35:26 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/mustaqee/public_html/hottopic/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 475
+[25-Oct-2016 12:40:52 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home2/mustaqee/public_html/hottopic/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 475

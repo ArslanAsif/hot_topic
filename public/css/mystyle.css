@@ -1,0 +1,41 @@
+#topic {
+    text-align: center
+}
+
+#app {
+    background: url('../img/background/4.jpeg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    //background-color: white;
+    height: 100vh;
+}
+
+
+#login-input {
+    border-left: none;
+}
+
+#panel-links {
+    display: block;
+}
+
+#no-panel-links {
+    display: none;
+}
+
+@media(min-width:768px) {
+    #panel-links {
+        display: none;
+    }
+
+    #no-panel-links {
+        display: block;
+    }
+    
+    #login-input {
+        border-left: 1px solid lightgrey;
+    }
+}
